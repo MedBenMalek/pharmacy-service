@@ -1,0 +1,18 @@
+{
+    "instance": {
+        "hostName": "localhost",
+            "app": "pharmacy-service",
+            "vipAddress": "pharmacy-service",
+            "instanceId": "x9pt51sk2tl6l2z",
+            "ipAddr": "0.0.0.0",
+            "status": "UP",
+            "port": {
+            "$": 8585,
+                "@enabled": true
+            },
+        "dataCenterInfo": {
+            "@class": "com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo",
+                "name": "MyOwn"
+        }
+    }
+}
